@@ -42,3 +42,4 @@ C:\Users\Ben Sella\Desktop\Wayo\WebDev\Seventh_Try\RocketEngineRecipes\RocketEng
 C:\Users\Ben Sella\Desktop\Wayo\WebDev\Seventh_Try\RocketEngineRecipes\RocketEngineRecipes\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
 C:\Users\Ben Sella\Desktop\Wayo\WebDev\Seventh_Try\RocketEngineRecipes\RocketEngineRecipes\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
 C:\Users\Ben Sella\Desktop\Wayo\WebDev\Seventh_Try\RocketEngineRecipes\RocketEngineRecipes\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Ben Sella\Desktop\Wayo\WebDev\Seventh_Try\RocketEngineRecipes\RocketEngineRecipes\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll
